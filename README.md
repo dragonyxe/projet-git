@@ -1,7 +1,7 @@
 # projet-git
 <<<<<<< HEAD
-caca
-pipi
+bonjour
+au revoir
 
 
 =======
